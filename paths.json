@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/vv-crosswalk-site/:/",
-    "/content/vv-crosswalk-site/metadata:/metadata.json"
+    "/content/vvcrosswalk/:/",
+    "/content/vvcrosswalk/metadata:/metadata.json"
   ]
 }
